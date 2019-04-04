@@ -1,0 +1,5 @@
+#!/bin/bash
+for i in {0..8}
+do
+   cp bigo ex0$i
+done
